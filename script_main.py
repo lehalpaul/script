@@ -49,12 +49,9 @@ def main():
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
         
-def run_conversation(question):
-    llm = ChatOpenAI(temperature=0.9, model="gpt-3.5-turbo-1106", streaming=True)
-    loader = CSVLoader(file_path="cronicchevrolet.csv")
-    data = loader.load()
-    vectordb = FAISS.from_documents(data, OpenAIEmbeddings())
-    retriever = vectordb.as_retriever()
+def run_conversation(comments):
+    llm = ChatOpenAI(temperature=0.9, model="gpt-4", streaming=True)
+
 
     template = """
     
@@ -145,7 +142,6 @@ You have to provide formatted script by labelling such as Greeting ,Introduction
     conversation = LLMChain(llm=llm,prompt=prompt_temp,verbose=False,memory=memory)
 
 
-    comments = "Hi"
     ai_response =conversation.run(comments)
 
     
