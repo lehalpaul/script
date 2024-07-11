@@ -26,7 +26,7 @@ from langchain.schema.output_parser import StrOutputParser
 def main():
     
     openai.api_key=os.environ["OPENAI_API_KEY"]
-    st.title("Auto Dealership AI Assistant")
+    st.title("Script Assistant")
 
    
     if "messages" not in st.session_state:
