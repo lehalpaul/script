@@ -53,7 +53,7 @@ def run_conversation(comments):
     llm = ChatOpenAI(temperature=0.9, model="gpt-4", streaming=True)
 
 
-template="""
+    template="""
 You are an AI assistant tasked with creating phone scripts for sales representatives at Xanadu Automotive, focusing on engaging potential customers based on their expressed interests and provided comments. Your scripts will help manage inbound leads by responding accurately and efficiently.
 
 Task:
