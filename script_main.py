@@ -221,8 +221,8 @@ Vehicles of Interest:
 
 Customer Details:
 
-    • First Name: Jane
-    • Last Name: Smith
+    • First Name: Alex
+    • Last Name: Son
     • Phone: 555-987-6543
     • Address: 456 Elm St, Anytown, CA 90210
 
