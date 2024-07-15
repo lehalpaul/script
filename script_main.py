@@ -249,7 +249,7 @@ Comments: {comments}
 Instructions:
 Create a script with the following sections:
 
-    - Greet the lead with their name.
+    - Greet the lead with their name related to the lead data .
     - Introduction (Incorporate vehicles of interest and relevant customer comments)
     - Returning Customer Acknowledgement (if applicable)
     - Questions to Understand Lead’s Needs
