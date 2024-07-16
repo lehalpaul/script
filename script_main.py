@@ -62,21 +62,29 @@ Generate a phone script for an inbound lead. Use the following information to cr
 
 Lead Information:
 Prospect Status: Interested
+
 Vehicles of Interest:
 Interest: Buy, Status: Used, Year: 2021, Make: AM General, Model: Hummer,VIN: " ", Trim: Limited
 Interest: Trade-in,Year: ,Status: , Make: Acura, Model: ,VIN: ,Trim:
+
 Customer Details:
 First Name: Guilian
 Last Name: MINION
 Phone: 317-555-1212
 Address: 204 E Franklin, Monroe, NC 28212
+
 Vendor Name:
 Xanadu Automotive (TESTER)
+
 Provider Details:
 ID: 1
 Source: Unknown
+
+
 Lead Inventory Items:
 Inventory: ""
+
+
 Returning Customer: False
 
 
