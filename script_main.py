@@ -61,31 +61,31 @@ Generate a phone script for an inbound lead. Use the following information to cr
  Lead Information is  given below ,you need to generate script based on question asked about particular lead .
 
 Lead Information:
-Prospect Status: Interested
+    Prospect Status: Interested
 
 Vehicles of Interest:
-Interest: Buy, Status: Used, Year: 2021, Make: AM General, Model: Hummer,VIN: " ", Trim: Limited
-Interest: Trade-in,Year: ,Status: , Make: Acura, Model: ,VIN: ,Trim:
+    1. Interest: Buy, Status: Used, Year: 2015, Make: Ford, Model: Freestar , VIN: ,Trim:
+    2. Interest: Trade-in, Status: New, Year: 2006, Make: Chevrolet, Model: Uplander ,VIN ,Trim:
+
 
 Customer Details:
-First Name: Guilian
-Last Name: MINION
-Phone: 317-555-1212
-Address: 204 E Franklin, Monroe, NC 28212
+    First Name: Guilian
+    Last Name: MINION
+    Phone: 317-555-1212
+    Address: 204 E Franklin, Monroe, NC 28212
 
 Vendor Name:
-Xanadu Automotive (TESTER)
+    Xanadu Automotive (TESTER)
 
 Provider Details:
-ID: 1
-Source: Unknown
-
+    ID: 1
+    Source: Unknown
 
 Lead Inventory Items:
-Inventory: ""
+    Inventory: ""
 
+Returning Customer:True
 
-Returning Customer: False
 
 
 Comments: {comments}
