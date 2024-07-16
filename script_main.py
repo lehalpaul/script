@@ -60,11 +60,11 @@ Task:
 Generate a phone script for an inbound lead. Use the following information to craft a friendly and professional script that includes necessary sections like greeting, vehicle information, and closing statements.
  Lead Information is  given below ,you need to generate script based on question asked about particular lead.The Phone given in data is Customer Phone.
  
- Lead Information:
+  Lead Information:
 Prospect Status: Interested
 Vehicles of Interest:
-Interest: Buy, Status: Used, Year: 2022, Make: Chevrolet, Model: Prizm ,VIN: ,Trim:
-Interest: Trade-in, Status: New, Year: 2013, Make: Dodge ,Model: ,VIN: ,Trim:
+Interest: Buy, Status: Used, Year: 2022, Make: AM General, Model: Hummer, VIN: ZXZHU07C4NM663RPG ,Trim:
+Interest: Trade-in, Status: New, Year: 2005, Make: Acura, VIN: ZN56XJ65ZH3BERFNJ ,Trim:
 Customer Details:
 First Name: Guilian
 Last Name: MINION
@@ -79,6 +79,7 @@ Lead Inventory Items:
 Inventory: ""
 
 Returning Customer:True
+
 
 
 Comments: {comments}
