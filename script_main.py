@@ -80,9 +80,6 @@ Inventory: ""
 Returning Customer:
 True
 
-Returning Customer: False
-
-
 Comments: {comments}
 
 Instructions:
