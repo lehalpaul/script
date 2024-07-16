@@ -58,12 +58,9 @@ You are an AI assistant tasked with creating phone scripts for sales representat
 
 Task:
 Generate a phone script for an inbound lead. Use the following information to craft a friendly and professional script that includes necessary sections like greeting, vehicle information, and closing statements.
-There are multiple Lead Information given below ,you need to generate script based on question asked about particular lead .Verify it using identifying car details with lead information.
-You only need to create one script at one time ,just check about which lead is question  then generate script for that only.
-Here are all the leads with their information:
+ Lead Information is  given below ,you need to generate script based on question asked about particular lead .
 
-
-1.Lead Information:
+Lead Information:
 Prospect Status: Interested
 Vehicles of Interest:
 Interest: Buy, Status: Used, Year: 2021, Make: AM General, Model: Hummer,VIN: " ", Trim: Limited
@@ -81,8 +78,6 @@ Source: Unknown
 Lead Inventory Items:
 Inventory: ""
 Returning Customer: False
-
-
 
 
 Comments: {comments}
