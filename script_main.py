@@ -61,10 +61,9 @@ Generate a phone script for an inbound lead. Use the following information to cr
  Lead Information is  given below ,you need to generate script based on question asked about particular lead.The Phone given in data is Customer Phone.
 Lead Information:
 Prospect Status: Interested
-Request Date: 2024-06-23T15:49:48-05:00
 Vehicles of Interest:
-Interest: Buy, Status: Used, Year: 2021, Make: AM General, Model: Hummer,VIN: " ", Trim: Limited
-Interest: Trade-in, Odometer Status: , Make: Acura, Model: ,VIN: ,Trim:
+Interest: Buy, Status: Used, Year: 2015, Make: Ford, Model: Freestar , VIN: ,Trim:
+Interest: Trade-in, Status: New, Year: 2006, Make: Chevrolet, Model: Uplander ,VIN ,Trim:
 Customer Details:
 First Name: Guilian
 Last Name: MINION
@@ -77,8 +76,8 @@ ID: 1
 Source: Unknown
 Lead Inventory Items:
 Inventory: ""
+Returning Customer:True
 
-Returning Customer: False
 
 
 
