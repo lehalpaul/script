@@ -62,8 +62,8 @@ Generate a phone script for an inbound lead. Use the following information to cr
  Lead Information:
 Prospect Status: Interested
 Vehicles of Interest:
-Interest: Buy, Status: Used, Year: 2011, Make: Buick, Model: Enclave, Trim: Premium, VIN: FVVH8TCYMVWB57M0E
-Interest: Trade-in, Status: New, Year:,Make: Kia ,Model: ,Trim: , VIN:
+Interest: Buy, Status: Used, Year: 2001, Make: Audi, Model: A3 e-tron ,VIN: ,Trim:
+Interest: Trade-in, Status: New, Year: 2002, Make: Dodge Model: ,VIN: ,Trim
 Customer Details:
 First Name: Guilian
 Last Name: MINION
@@ -76,8 +76,8 @@ ID: 1
 Source: Unknown
 Lead Inventory Items:
 Inventory: ""
-Returning Customer: True
 
+Returning Customer: False
 
 
 
